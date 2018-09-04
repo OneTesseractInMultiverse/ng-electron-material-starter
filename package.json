@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
+  "name": "angular-electron-material",
   "version": "4.2.2",
   "description": "Angular 6 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "homepage": "https://github.com/OneTesseractInMultiverse/ng-electron-material-starter",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Subvertic Lab",
+    "email": "community@cr.subvertic.com"
   },
   "keywords": [
     "angular",
@@ -63,7 +63,7 @@
     "@types/node": "8.9.4",
     "codelyzer": "4.2.1",
     "core-js": "2.5.6",
-    "electron": "2.0.7",
+    "electron": "^2.0.8",
     "electron-builder": "20.28.1",
     "electron-reload": "1.2.2",
     "jasmine-core": "3.1.0",
